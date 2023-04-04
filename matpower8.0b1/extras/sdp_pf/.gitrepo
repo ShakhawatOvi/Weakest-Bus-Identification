@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:MATPOWER/mx-sdp_pf
+	branch = master
+	commit = 406a11302bcedcd7f5fcd983a6d798cd23c4bbad
+	parent = 6886eaef4f1da4bffb9ccdc633054defeb8b4e2e
+	cmdver = 0.4.5
+	method = merge
